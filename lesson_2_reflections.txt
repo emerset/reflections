@@ -25,3 +25,6 @@ Prompt: What are some situations when branches would be helpful in keeping your 
 --> their coding without disturbing the other coders, until their changes are
 --> complete without bugs
 
+Prompt: How do the diagrams help you visualize the branch structure?
+
+--> Wonderfully.
