@@ -9,3 +9,19 @@ Prompt: How is the staging area different from the working directory and the rep
 --> into the repository for the first time. It is valuable because it offers
 --> you the choice of which files you would like to include (and when) into 
 --> the repo, instead of just automatically including everything in a directory
+
+Prompt: How can you use the staging area to make sure you have one commit per logical change?
+
+--> You can check out all changed made unstaged and staged using "git status"
+--> You can then check out the staged changes using "git diff --staged"
+--> And the unstaged changes using "git diff"
+--> You can now decide which files to include into your staging area to make a logical commit
+
+Prompt: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+--> If I want to experiment a programming change while I'm not sure if I will
+--> include it into the project yet. Also, if there are several programmers
+--> working on several different parts of one project, they can make changes to
+--> their coding without disturbing the other coders, until their changes are
+--> complete without bugs
+
