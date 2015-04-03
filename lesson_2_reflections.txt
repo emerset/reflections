@@ -28,3 +28,8 @@ Prompt: What are some situations when branches would be helpful in keeping your 
 Prompt: How do the diagrams help you visualize the branch structure?
 
 --> Wonderfully.
+
+Prompt: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+--> You get the new additions/new subtractions from each branch, merged into one.
+--> You represent it like that to show the parents are still unique with each commit
