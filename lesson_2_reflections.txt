@@ -33,3 +33,8 @@ Prompt: What is the result of merging two branches together? Why do we represent
 
 --> You get the new additions/new subtractions from each branch, merged into one.
 --> You represent it like that to show the parents are still unique with each commit
+
+Prompt: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+--> pro: saves time
+--> con: it can leave redundancies intact
