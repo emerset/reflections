@@ -1,0 +1,11 @@
+Prompt: What happens when you initialize a repository? Why do you need to do it?
+
+--> you need to type git init.
+--> a .git file will be created in the directory.
+
+Prompt: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+--> The staging area stores the files that you are interested in committing
+--> into the repository for the first time. It is valuable because it offers
+--> you the choice of which files you would like to include (and when) into 
+--> the repo, instead of just automatically including everything in a directory
