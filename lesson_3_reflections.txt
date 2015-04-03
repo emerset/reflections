@@ -1,0 +1,5 @@
+>> When would you want to use a remote repository rather than keeping all your work local?
+
+I'd want to use it as a backup, and as a way to work from multiple devices (laptop, desktop, tablet, phone, library computer).
+I'd also want to use it if I'm collaberating with other people.
+Finally, I'd want to use it to publish my work for my portfolio.
