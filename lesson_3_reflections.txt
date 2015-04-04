@@ -8,3 +8,10 @@ Finally, I'd want to use it to publish my work for my portfolio.
 >> automatically stay up-to-date with your remote repository?
 
 You might be modifying some code and then an update messes up what you're doing
+
+>> Describe the differences between forks, clones, and branches.
+>> When would you use one instead of another?
+
+Forks are GitHub copies of someone else's repository into your own on GitHub
+Clones are repository copies from a GitHub repo into a local computer
+Branches are commits made within a repository that do not effect the main line of code
