@@ -3,3 +3,8 @@
 I'd want to use it as a backup, and as a way to work from multiple devices (laptop, desktop, tablet, phone, library computer).
 I'd also want to use it if I'm collaberating with other people.
 Finally, I'd want to use it to publish my work for my portfolio.
+
+>> Why might you want to always pull changes manually rather than having Git
+>> automatically stay up-to-date with your remote repository?
+
+You might be modifying some code and then an update messes up what you're doing
