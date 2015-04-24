@@ -15,3 +15,8 @@ You might be modifying some code and then an update messes up what you're doing
 Forks are GitHub copies of someone else's repository into your own on GitHub
 Clones are repository copies from a GitHub repo into a local computer
 Branches are commits made within a repository that do not effect the main line of code
+
+>> What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Then you can make changes and merge whatever you want to locally, and then when you're
+happy, push whatever you want into the cloud
