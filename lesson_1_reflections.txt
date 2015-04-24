@@ -35,7 +35,12 @@ Prompt: Now that you have your workspace set up, what do you want to try using G
 --> for programming a website and starting the several app ideas I have, and heck,
 --> maybe even working on my tutorial apps
 
-1) Open GitShell
+1) Open Git Bash (linux commend prompt)
+2) type -> cd Documents/GitHub/version-control/reflections
+3) type -> npp lesson_1_reflections.txt
+4) if npp not recognized, type -> set path=%path%;C:\\Program\ Files\ \(x86\)\\Notepad++;
+
+1) Open GitShell (DOS command prompt)
 2) type -> ls version-control\reflections
 3) type -> notepad++ lesson_1_reflections.txt
 4) if notepad++ not recognized, type -> $env:Path = "C:\Program Files(x86)\Notepad++";
