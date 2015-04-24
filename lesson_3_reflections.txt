@@ -20,3 +20,7 @@ Branches are commits made within a repository that do not effect the main line o
 
 Then you can make changes and merge whatever you want to locally, and then when you're
 happy, push whatever you want into the cloud
+
+>> How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Lots of stuff
